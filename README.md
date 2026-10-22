@@ -46,12 +46,12 @@ The difference between n_calls and n_initial points can be very small, meaning t
 
 <br>
 
+<img src="./gp_optimization_history_copy.png" alt="Graph Copy" width="600">
 
-![graph](gp_optimization_history_copy.png)
-
-
-<br> 
+<br><br>
 
 Following a 25% rule
 
-![graph](gp_optimization_history.png)
+<br><br>
+
+<img src="./gp_optimization_history.png" alt="Graph" width="600">
