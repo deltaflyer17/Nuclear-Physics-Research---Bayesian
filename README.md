@@ -37,4 +37,15 @@ random_state: ensures the same set of initial points is chosen every time
 
 <h1>Graph</h1>
 
+![graph](gp_optimization_history_copy.png)
+
+<br>
+
+Issues with this graph  
+The difference between n_calls and n_initial points was very small, meaning that the amount of "actual guesses" was not sufficient. The goal now is to find an ideal point where we can maximize the amount of actual guesses.
+
+<br>
+
+Following a ratio of 25%
+
 ![graph](gp_optimization_history.png)
