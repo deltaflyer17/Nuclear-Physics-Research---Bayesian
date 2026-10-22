@@ -46,6 +46,5 @@ The difference between n_calls and n_initial points can be very small, meaning t
 
 <br>
 
-Following a ratio of 25%
 
 ![graph](gp_optimization_history.png)
